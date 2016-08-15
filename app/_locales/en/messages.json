@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "translation tool",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Chrome Extension for finding strings on a webpage which may need to be translated",
+    "description": "The description of the application"
+  }
+}
